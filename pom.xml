@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+   <modelVersion>4.0.0</modelVersion>
+
+   <!-- ********************************************** -->
+   <!-- ****************** BASE POM ****************** -->
+   <!-- ********************************************** -->
+
+   <parent>
+      <groupId>com.bernardomg.maven</groupId>
+      <artifactId>base-pom</artifactId>
+      <version>1.3.4</version>
+   </parent>
+   
+   <!-- ********************************************** -->
+   <!-- **************** PROJECT INFO **************** -->
+   <!-- ********************************************** -->
+
+   <groupId>es.seresco</groupId>
+   <artifactId>estandar</artifactId>
+   <version>0.0.1-SNAPSHOT</version>
+   <packaging>pom</packaging>
+
+   <name>estandar</name>
+   <!-- FIXME change it to the project's website -->
+   <url>http://www.example.com</url>
+
+   <!-- ********************************************** -->
+   <!-- ****************** MODULES ******************* -->
+   <!-- ********************************************** -->
+
+   <modules>
+      <module>alcampo</module>
+      <module>amazon</module>
+   </modules>
+
+</project>
