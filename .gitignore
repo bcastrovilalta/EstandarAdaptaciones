@@ -1,0 +1,10 @@
+/.metadata/
+estandar/alcampo/.settings/
+estandar/alcampo/target/
+estandar/amazon/.classpath
+estandar/amazon/.project
+estandar/amazon/.settings/org.eclipse.core.resources.prefs
+estandar/amazon/.settings/
+estandar/.settings/
+*.class
+*.jar
