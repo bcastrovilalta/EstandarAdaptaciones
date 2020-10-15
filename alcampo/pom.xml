@@ -34,11 +34,6 @@
          <version>4.11</version>
          <scope>test</scope>
       </dependency>
-      <dependency>
-         <groupId>es.seresco</groupId>
-         <artifactId>estandar</artifactId>
-         <version>0.0.1-SNAPSHOT</version>
-      </dependency>
    </dependencies>
 
 </project>
